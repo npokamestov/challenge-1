@@ -1,2 +1,2 @@
-# npokamestov-challenge1.github.io
+# challenge-1
 Horiseon Refactoring
