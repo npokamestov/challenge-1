@@ -1,3 +1,4 @@
+/* Removes page defaults for a clean css workspace */
 * {
     box-sizing: border-box;
     padding: 0;
@@ -7,36 +8,40 @@
 body {
     background-color: #d9dcd6;
 }
-
-.header {
+/* changed selector ".header" class to "header" element */
+header {
     padding: 20px;
     font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
     background-color: #2a607c;
     color: #ffffff;
 }
-
-.header h1 {
+/* changed selector ".header" class to "header" element */
+header h1 {
     display: inline-block;
     font-size: 48px;
 }
-
-.header h1 .seo {
+/* changed selector ".header" class to "header" element */
+header h1 .seo {
     color: #d9dcd6;
 }
-
-.header nav {
+/* changed selector ".header" class to "header" element */ 
+/* changed div element to nav element for links in header */
+/* added single quotations to font-family Calibri */
+header nav {
     padding-top: 15px;
     margin-right: 20px;
     float: right;
-    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    font-family: 'Gill Sans', 'Gill Sans MT', 'Calibri', 'Trebuchet MS', sans-serif;
     font-size: 20px;
 }
-
-.header nav ul {
+/* changed ".header" class to "header" element */
+/* changed div element to nav element for links in header */
+header nav ul {
     list-style-type: none;
 }
-
-.header nav ul li {
+/* changed ".header" class to "header" element */
+/* changed div element to nav element for links in header */
+header nav ul li {
     display: inline-block;
     margin-left: 25px;
 }
@@ -74,7 +79,7 @@ p {
     display: inline-block;
     margin-left: 20px;
 }
-
+/* consolidated and organized css selectors */
 .content-info{
     margin-bottom: 20px;
     padding: 50px;
@@ -83,16 +88,16 @@ p {
     background-color: #0072bb;
     color: #ffffff;
 }
-
+/* consolidated and organized css selectors */
 .content-info img {
     max-height: 200px;
 }
-
+/* consolidated and organized css selectors */
 .content-info h2 {
     margin-bottom: 20px;
     font-size: 36px;
 }
-
+/* added single quotations to font-family Calibri */
 .benefits {
     margin-right: 20px;
     padding: 20px;
@@ -100,33 +105,33 @@ p {
     float: right;
     width: 20%;
     height: 100%;
-    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    font-family: 'Gill Sans', 'Gill Sans MT', 'Calibri', 'Trebuchet MS', sans-serif;
     background-color: #2589bd;
 }
-
+/* consolidated and organized css selectors */
 .benefit-info {
     margin-bottom: 32px;
     color: #ffffff;
 }
-
+/* consolidated and organized css selectors */
 .benefits h3 {
     margin-bottom: 10px;
     text-align: center;
 }
-
+/* consolidated and organized css selectors */
 .benefits img {
     display: block;
     margin: 10px auto;
     max-width: 150px;
 }
-
+/* changed selector ".footer" class to "footer" element */
 footer {
     padding: 30px;
     clear: both;
     font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
     text-align: center;
 }
-
+/* changed selector ".footer" class to "footer" element  */
 footer h2 {
     font-size: 20px;
 }
