@@ -8,7 +8,3 @@ This site is only the landing page, but it can serve as a template for later add
 
 Below is a screenshot of the page:
 ![](./Develop/assets/images/horiseon-screenshot.pdf)
-=======
-# challenge-1
-Horiseon Refactoring
->>>>>>> 6eb7077ab10dfaf09b3672fac8749a0ad3467b55
