@@ -1,4 +1,3 @@
-<<<<<<< HEAD
 # Horiseon Website Refactoring
 https://npokamestov.github.io/challenge-1
 
