@@ -7,4 +7,4 @@ This website is for a service that is dedicated in making companies more online 
 This site is only the landing page, but it can serve as a template for later additions.
 
 Below is a screenshot of the page:
-![](./Develop/assets/images/horiseon-screenshot.pdf)
+![](./Develop/assets/images/horiseon-screenshot.png)
