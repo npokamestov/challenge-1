@@ -1,6 +1,6 @@
 <<<<<<< HEAD
-# npokamestov.github.io/challenge-1
-Horiseon Website Refactoring
+# Horiseon Website Refactoring
+https://npokamestov.github.io/challenge-1
 
 This website is for a service that is dedicated in making companies more online search engine friendly. This would allow potential visitors to find the company and what they are about more easily, and it would allow the company to broadcast their site more effectively.
 
